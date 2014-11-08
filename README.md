@@ -1,4 +1,4 @@
 AndApp
 ======
 
-Exploring android SDK
+Exploring android SDK, want to learn some cool things!
